@@ -98,5 +98,3 @@ All figures in `project-01-tat-ltr/figures/`:
 - NumPy
 - SciPy
 - Matplotlib
-
-`Complete README with project results and design space analysis`
